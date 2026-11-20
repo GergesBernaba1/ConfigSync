@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: editor-test
+data:
+  appsettings.json: |
+    {
+      "Edited": true
+    }
+# preserve my comment

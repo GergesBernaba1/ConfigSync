@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9YDg4tnaJg=",
+  "success": true,
+  "projectFilePath": "E:\\app\\ConfigSync\\ConfigSync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gerges.youssef\\.nuget\\packages\\yamldotnet\\18.1.0\\yamldotnet.18.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

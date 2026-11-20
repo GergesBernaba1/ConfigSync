@@ -1,0 +1,1 @@
+PASS: comparison, move, reorder and replacement; editable YAML preserved through Compare; invalid YAML rejected without discarding text; manual Save wrote an isolated original fixture and retained its backup; real input files unchanged.

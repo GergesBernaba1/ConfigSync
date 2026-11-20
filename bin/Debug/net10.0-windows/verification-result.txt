@@ -1,0 +1,2 @@
+PASS: 16 assertions
+Artifacts: E:\app\ConfigSync\bin\Debug\net10.0-windows\verification\202611182322085702579

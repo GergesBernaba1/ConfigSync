@@ -1,0 +1,1 @@
+PASS: two panes loaded; missing text highlighted; Move selected and Move all buttons staged changes; moved text highlighted green; reorder button preserved values and refreshed content; originals unchanged.
